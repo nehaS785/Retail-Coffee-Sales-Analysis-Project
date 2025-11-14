@@ -7,3 +7,14 @@ Analyze retail coffee sales across different months and product categories.
 Identify top-selling products and consistently underperforming items.
 Detect seasonal demand patterns and customer purchase trends.
 Provide meaningful insights and recommendations to improve sales strategy.
+
+## Tools & Technologies
+Excel / Advance Excel
+
+Pivot Tables
+
+Charts & Data Visualization
+
+Sales Trend Analysis
+
+Data Cleaning & Transformation
