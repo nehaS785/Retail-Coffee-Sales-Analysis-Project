@@ -20,17 +20,17 @@ Sales Trend Analysis
 Data Cleaning & Transformation
 
 ## Key Analysis Performed
-Monthly Sales Trend Analysis
+Monthly Sales Trend Analysis-
 To identify peak and low-performing months.
 
-Product Category Performance
+Product Category Performance-
 Comparison of different coffee types to understand customer preferences.
 
-Top & Bottom Sellers
+Top & Bottom Sellers-
 Ranking products based on revenue and quantity sold.
 
-Seasonality Check
+Seasonality Check-
 Understanding how demand fluctuates throughout the year.
 
-Customer Preference Insights
+Customer Preference Insights-
 Identifying products that drive repeated purchases.
