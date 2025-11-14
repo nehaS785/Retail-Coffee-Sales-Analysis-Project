@@ -1,4 +1,4 @@
-## Retail Coffee Sales Analysis Project
+## Coffee Sales Analysis Project
 This project analyzes retail coffee sales data to uncover trends, seasonality patterns, and factors affecting overall sales performance.
 The goal is to help retail businesses understand customer buying behavior, identify high-performing products, and make data-driven decisions for inventory, pricing, and marketing.
 
