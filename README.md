@@ -34,3 +34,18 @@ Understanding how demand fluctuates throughout the year.
 
 Customer Preference Insights-
 Identifying products that drive repeated purchases.
+
+## Insights & Findings
+Some products showed strong seasonal demand spikes.
+
+A few low-performing items were consistently under-selling across months.
+
+High demand was observed for premium and specialty coffee categories.
+
+Monthly sales fluctuations indicated potential marketing opportunities during slower months.
+
+## Recommendations
+Focus marketing campaigns on high-demand months to increase revenue.
+Improve inventory planning for fast-moving coffee products.
+Offer discounts on low-selling items to reduce stock buildup.
+Introduce combo offers for premium coffee products to boost sales.
